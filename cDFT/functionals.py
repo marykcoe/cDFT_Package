@@ -7,6 +7,8 @@ fluids incontact with homogenous planar surfaces, spherical
 solutes and confined to a slit with homogeneous surfaces.
 
 Created April 2019. Last Update November 2021.
+Author: Mary K. Coe
+E-mail: m.k.coe@bristol.ac.uk
 
 This program utilises FMT and supports the Rosenfeld,
 White-Bear and White-Bear Mark II functionals.
@@ -19,6 +21,25 @@ following thesis (link available December 2021)
 This module contains the functions required to implement
 the supported fluid potentials. See tutorials and minimisation
 module for information on supported functionals.
+
+-------------------------------------------------------------------
+Copyright 2021 Mary Coe
+
+This file is part of cDFT.
+
+cDFT is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+cDFT is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with cDFT.  If not, see <https://www.gnu.org/licenses/>.
+-------------------------------------------------------------------
 """
 import numpy as np
 
