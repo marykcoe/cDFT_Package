@@ -46,7 +46,7 @@ hence for each of these systems the density profile varies along only one axis. 
 of this is that the weighted density and correlation functions can be reduced to one-dimensional
 calculations by analytically evaluating their results in the two dimensions in which the density
 profile is homogeneous. This greatly reduces the computation involved and therefore makes the
-package fairly quick. To clarify, the system studied are three-dimensional, we have just made the
+package fairly quick. To clarify, the systems studied are three-dimensional, we have just made the
 computer's job easier by doing the calculation ourselves in two of the three dimensions.
 
 <h3>How can I tell the numerical consistency of the calculations?</h3>
