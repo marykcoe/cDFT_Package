@@ -16,7 +16,11 @@ White-Bear and White-Bear Mark II functionals.
 For information on how to use this package please consult
 the accompanying tutorials. Information on how the package
 works can be found in Chapter 4 and Appendix A-C of the
-following thesis (link available December 2021)
+following thesis:
+
+M. K. Coe, Hydrophobicity Across Length Scales: The Role of
+Surface Criticality, Ph.D. Thesis, University of Bristol (2021)
+Available at: https://research-information.bris.ac.uk/ws/portalfiles/portal/304220732/Thesis_Mary_Coe.pdf
 
 This module contains functions to performmeasures of the system.
 Supported measures are:
