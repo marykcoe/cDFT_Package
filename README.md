@@ -24,7 +24,7 @@ will be able to use this package in the way that best meets their research needs
 In the meantime, this repository will consist of the package in its current state and three
 tutorials which I hope will help you understand how to use it. For more information on the theory
 behind this package, and details of underlying calculations, please see Chapter 4 and Appendices
-A-C of my thesis, available at: (available Dec/Jan 2021).
+A-C of my thesis, available at: https://research-information.bris.ac.uk/ws/portalfiles/portal/304220732/Thesis_Mary_Coe.pdf.
 
 
 <h3>What systems can I investigate with this cDFT package?</h3>
